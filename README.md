@@ -1,2 +1,2 @@
 # vra-NSX-Templates
-vra-NSX-Templates
+Used for NSX deployments
